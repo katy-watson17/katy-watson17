@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ... don't!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: There is no problem so bad that you can't just add some guilt to it and make it even worse!
+- ⚡ Fun fact: ...
 
 <!---
 ZuhayraM/ZuhayraM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
